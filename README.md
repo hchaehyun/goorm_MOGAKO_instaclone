@@ -52,7 +52,6 @@ Full-stack | Full-stack | iOS | iOS
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![swiftUI](https://img.shields.io/badge/swiftui-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Communication
