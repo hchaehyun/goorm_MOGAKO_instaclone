@@ -9,7 +9,7 @@ goorm 풀스택 1회차 7조<br>
 
 한규민 | 이재영 | 이정원 | 함채현
 | :-: | :-: | :-: | :-: |
-<img width="300" alt="image" src="readme/mogako_1.png"> | <img width="300" alt="image" src="readme/mogako_2.gif"> | <img width="300" alt="image" src="readme/mogako_4.png"> | <img width="300" alt="image" src="readme/mogako_3.gif">
+<img width="300" alt="image" src="https://github.com/hchaehyun/goorm_MOGAKO_instaclone/blob/main/readme/mogako_1.png"> | <img width="300" alt="image" src="readme/mogako_2.gif"> | <img width="300" alt="image" src="readme/mogako_4.png"> | <img width="300" alt="image" src="readme/mogako_3.gif">
 팀장 | 팀원 | 팀원 | 팀원
 Full-stack | Full-stack | iOS | iOS
 <!--사진 수정 필요함, 세부 스택 다시 적어야함(규민님, 재영님)-->
